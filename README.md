@@ -51,9 +51,8 @@
  ## 如何将vim打造成以上模样
  ```bash
 git clone https://github.com/ChinaLym/autoSuperVim
-chmod 711 autoSuperVim/auto_install.sh
 cd autoSuperVim
-auto_install.sh
+sh auto_install.sh
 ```
 - 中间如果缺少python组件会自动下载，输入y 确认即可
 
