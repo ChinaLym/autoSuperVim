@@ -46,7 +46,7 @@
 
 - Plugin 'https://github.com/tomasr/molokai'
 
-![avatar](https://img-blog.csdnimg.cn/20190202170635982.png)
+![avatar](https://img-blog.csdnimg.cn/20190202185742554.png)
 
  ## 如何将vim打造成以上模样
  ```bash
