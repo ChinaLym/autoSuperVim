@@ -1,4 +1,4 @@
-#自动搭建python IDE
+﻿#自动搭建python IDE
 
 ## vim插件包含如下：
 
@@ -53,5 +53,6 @@
 apt-get install git
 git clone https://github.com/ChinaLym/autoSuperVim
 chmod 711 autoSuperVim/auto_install.sh
-autoSuperVim/auto_install.sh
+cd autoSuperVim
+auto_install.sh
 ```
