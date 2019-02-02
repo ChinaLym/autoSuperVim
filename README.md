@@ -50,7 +50,6 @@
 
  ## 如何将vim打造成以上模样
  ```bash
-apt-get install git
 git clone https://github.com/ChinaLym/autoSuperVim
 chmod 711 autoSuperVim/auto_install.sh
 cd autoSuperVim
