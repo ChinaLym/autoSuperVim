@@ -46,6 +46,12 @@
 
 - Plugin 'https://github.com/tomasr/molokai'
 
-  - ![avatar](https://img-blog.csdnimg.cn/20190202170635982.png)
+![avatar](https://img-blog.csdnimg.cn/20190202170635982.png)
 
-  ## 一条命令将vim打造成以上模样
+ ## 如何将vim打造成以上模样
+ ```bash
+apt-get install git
+git clone https://github.com/ChinaLym/autoSuperVim
+chmod 711 autoSuperVim/auto_install.sh
+autoSuperVim/auto_install.sh
+```
