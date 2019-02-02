@@ -24,6 +24,7 @@ Plugin 'Lokaltog/vim-powerline'
 "配色主题molokai
 Plugin 'https://github.com/tomasr/molokai'
 filetype plugin indent on
-
+exec "PluginInstall"
 exec "BundleInstall"
+exec "q"
 exec "q"

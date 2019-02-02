@@ -8,7 +8,7 @@ apt-get install vim-python
 pip install autopep8
 rm -rf ~/.vim ~/.vimrc
 tar -zxvf vimPlugins.tar.gz
-mv .vim ~/
+cp -r .vim ~/
 mv temp_vimrc ~/.vimrc
 vim
 rm -rf ~/.vimrc
