@@ -55,3 +55,6 @@ chmod 711 autoSuperVim/auto_install.sh
 cd autoSuperVim
 auto_install.sh
 ```
+- 中间如果缺少python组件会自动下载，输入y 确认即可
+
+- 中间会开启一次vim进行初步检测，输入:q退出即可
