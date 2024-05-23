@@ -4,7 +4,7 @@
 
 ![display.png](display.png)
 
-## 🚀 立即打造为以上模样
+## 🚀 立即为 `Vim` 换身衣服
  ```bash
 git clone https://github.com/ChinaLym/autoSuperVim
 cd autoSuperVim
